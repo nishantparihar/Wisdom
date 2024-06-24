@@ -1,3 +1,4 @@
 # Create a wrangler.toml file and copy below content to it
 name = "backend"
 compatibility_date = "2023-12-01"
+jwt_secret = "put some password"
